@@ -25,4 +25,7 @@ step-9: stop
   sum = num1 + num2;
   printf("The sum of %i and %i is %i.", num1, num2, sum);
 
+  return 0;
+
+
  }
